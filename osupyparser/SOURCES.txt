@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+OsuPyParser/PKG-INFO
+OsuPyParser/SOURCES.txt
+OsuPyParser/dependency_links.txt
+OsuPyParser/top_level.txt
+osupyparser/__init__.py
+osupyparser/osr/__init__.py
+osupyparser/osr/constants.py
+osupyparser/osr/iobytes.py
+osupyparser/osr/osr_parser.py
+osupyparser/osu/__init__.py
+osupyparser/osu/constants.py
+osupyparser/osu/objects.py
+osupyparser/osu/osu_parser.py
